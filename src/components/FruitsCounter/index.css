@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffd569;
+  width: 150px;
+  padding: 10px;
+  color: black;
+  display: flex;
+  flex-direction: column;
+}
+.fruitsContainer {
+  display: flex;
+  flex-direction: row;
+  background-color: #ffffff;
+  width: 150px;
+  padding: 10px;
+  color: black;
+  margin: 10px;
+}
+.heading {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 26px;
+}
+.mangoescard {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.image {
+  height: 250px;
+  width: 100px;
+  padding: 10px;
+}
+.button {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+}
